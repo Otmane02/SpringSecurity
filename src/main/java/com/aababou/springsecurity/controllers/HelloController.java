@@ -1,4 +1,4 @@
-package com.aababou.springsecurity;
+package com.aababou.springsecurity.controllers;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
